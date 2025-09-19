@@ -9,4 +9,4 @@ The goal for this project is to use GitHub to create a virtual profile of yourse
 
 ## Background
 
-This project is being completed by a student pursuing an M.S. in Supply Chain Analytics from California State University San Marcos for a Tools and Technologies class.
+This project is being completed by a **student** pursuing an M.S. in Supply Chain Analytics from California State University San Marcos for a Tools and Technologies class.
