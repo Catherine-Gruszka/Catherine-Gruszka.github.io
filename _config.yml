@@ -6,3 +6,7 @@ title: [Catherine Gruszka]
 description: [E-Profile]
 
 show_downloads: ["False"]
+
+theme: jekyll-theme-minimal
+
+logo: /assets/images/logo.png
