@@ -5,6 +5,7 @@
 - Phone Number: 925-964-3728
 - Email: catherine.gruszka@yahoo.com
 
+![Alt text](assets/images/logo.png)
   
 ## Objective
 I aim to work in a position in which I can;
