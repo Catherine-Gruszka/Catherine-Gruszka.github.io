@@ -17,6 +17,7 @@ I aim to work in a position in which I can;
 ### B.S. Business Analytics, California State University San Marcos (Summa Cum Laude)
 - Dean’s list: Fall 2021, 2022, 2023, 2024 & Spring 2022, 2023, 2024, 2025
 -	GPA: 3.912
+
 ### M.S. Supply Chain Analytics, California State University San Marcos 
 - August 2025 – July 2026
 
