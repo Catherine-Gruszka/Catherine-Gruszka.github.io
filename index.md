@@ -32,6 +32,7 @@ I aim to work in a position in which I can;
 - Introduction to SQL and Relational Databases; **November 2023**
 - Data Visualization and Dashboards with Excel and Cognos; **March 2024**
 - Excel Basics for Data Analysis; **February 2024**
+
 ### Google
 - Google Data Analytics Specialization; **April 2025**
 
